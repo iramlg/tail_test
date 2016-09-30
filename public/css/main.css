@@ -1,0 +1,113 @@
+@keyframes example {
+  from {
+    right: -90px;
+  }
+  to {
+    right: 0;
+  }
+}
+body {
+  background: #fff;
+  overflow-x: hidden;
+  margin-bottom: 130px;
+}
+.header {
+  overflow: hidden;
+}
+.header .header-logo {
+  max-width: 100px;
+  display: inline-block;
+}
+.header .header-logo svg {
+  max-width: 100px;
+}
+.header button {
+  margin-top: 20px;
+}
+.header .header_form {
+  background: #fbe9e7;
+  margin: 5px 0;
+}
+.header .header_form input {
+  height: 30px;
+  font-size: 0.7rem;
+}
+.header .header_form input {
+  font-size: 0.7rem;
+}
+.header .header_form #password {
+  margin: 0;
+}
+.first_content {
+  padding: 10% 0 10%;
+}
+.first_content h2 {
+  font-size: 2.5rem;
+  margin-top: 5%;
+}
+.form-signup .box-form {
+  box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+  margin-top: 30px;
+  padding: 0;
+}
+.form-signup .box-form h2 {
+  background-color: #e15e3d;
+  color: #ffffff;
+  font-size: 20px;
+  line-height: 60px;
+  width: 100%;
+  margin: 0;
+  padding-left: 10px;
+}
+.form-signup .box-form h3 {
+  margin: 0;
+  padding: 20px 0 10px;
+  font-size: 16px;
+  color: #e15e3d;
+  border-bottom: #e15e3d solid 1px;
+}
+.form-signup .box-form .form-horizontal {
+  margin: 0;
+}
+.form-signup .box-form .form-horizontal .btn-holder {
+  margin: 20px 0 30px;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+footer ul {
+  margin-top: 0;
+}
+footer ul li {
+  display: inline-block;
+  margin: 0 10px;
+}
+footer ul li a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+footer .languages-select {
+  margin-top: 7px;
+}
+footer .languages-select a {
+  margin-right: 5px;
+}
+#react_container form {
+  max-width: 400px;
+  margin: 30px 0 20px;
+}
+#react_container form div {
+  margin: 10px 0;
+}
+.tests > div {
+  margin-top: 20px;
+}
+.tests > div h4 {
+  font-size: 16px;
+  line-height: 24px;
+}
+.tests > div span {
+  font-weight: bold;
+}

@@ -1,0 +1,12 @@
+{
+  "name": "tails_test",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "babel-preset-react": "^6.11.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-less": "^3.1.0",
+    "gulp-watch": "^4.3.10"
+  }
+}
